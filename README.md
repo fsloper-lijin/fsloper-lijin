@@ -100,20 +100,6 @@
 
 ---
 
-## ⌁ Stats
-
-<div align="center">
-
-<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsloper-lijin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="langs" />
-
-<br /><br />
-
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=fsloper-lijin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=67E8F9&line=A78BFA&point=FFFFFF&area=true&area_color=7C3AED" alt="activity" />
-
-</div>
-
----
-
 ## ⌁ Now
 
 - 🔭 正在做：给 `douyin-live-attendant` 补测试与异常恢复，让它能长时间无人值守
